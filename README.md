@@ -1,2 +1,2 @@
 # Watch-and-Key-Classifier-Using-SVM
-Watch and Key image classifier with deep learning.
+Watch and Key image classifier with Machine learning.
